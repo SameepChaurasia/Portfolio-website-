@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        Myself Sameep Chaurasia and currently I'm pursuing a degree in{" "}
+        Myself Sameep Chaurasia and currently I am pursuing a degree in{" "}
         <span className="font-medium">BTECH</span>, I decided to pursue my
         passion for programming. I enrolled in a coding bootcamp and learned{" "}
         <span className="font-medium">full-stack web development</span>.{" "}
