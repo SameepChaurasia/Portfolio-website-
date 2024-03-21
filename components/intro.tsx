@@ -62,11 +62,11 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Sameep.</span> I'm a{" "}
+        <span className="font-bold">Hello, I am Sameep.</span> I am a{" "}
         <span className="font-bold">full-stack developer</span> with{" "}
         <span className="font-bold">2 years</span> of learning and making experience. I enjoy
         building <span className="italic">sites & apps</span>.{" "}<br/>
-        <span className="underline">May be some links are not clickable and working here but it will definetly be working and optimized if i'll make that for you </span>.
+        <span className="underline">May be some links are not clickable and working here but it will definetly be working and optimized if i will make that for you </span>.
       </motion.h1>
 
       <motion.div
