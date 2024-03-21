@@ -39,7 +39,7 @@ export const experiencesData = [
     description:
       "Working on my own by learning new technologic and building projects and contributing to open source etc.",
     icon: React.createElement(CgWorkAlt),
-    date: "2019 - 2021",
+    date: "2022-present",
   },
 ] as const;
 
