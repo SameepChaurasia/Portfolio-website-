@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="/my-image.png"
+              src="/my-image.jpg"
               alt="Sameep portrait"
               width="1920"
               height="1920"
